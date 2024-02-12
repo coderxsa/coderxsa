@@ -2,17 +2,7 @@
 <h3 align="center">A passionate Frontend Developer | Backend Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderx&label=Profile%20views&color=0e75b6&style=flat" alt="coderx" /> </p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TikTok Live View Counter</title>
-</head>
-<body>
-    <iframe height="80px" width="300px" frameborder="0" src="https://livecounts.io/embed/tiktok-live-view-counter/7327962286516145413" style="border: 0; width:300px; height:80px;"></iframe>
-</body>
-</html>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderx" alt="coderx" /></a> </p>
 
