@@ -2,9 +2,11 @@
 <h3 align="center">A passionate Frontend Developer | Backend Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderx&label=Profile%20views&color=0e75b6&style=flat" alt="coderx" /> </p>
-To view the live TikTok view counter, click [here](https://coderxsa.github.io/coderxsa/counter).
+To view the live TikTok view counter, click (https://coderxsa.github.io/coderxsa/counter).
+SHOP - click (https://coderxsa.github.io/WEBSITE/).
+WATSAP BOT - click (https://coderxsa.github.io/WABot/WA-BOT/).
 
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderx" alt="coderx" /></a> </p>
 
 - 🔭 I’m currently working on **Python | Html | Css | Js | Php | MySql**
