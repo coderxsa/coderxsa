@@ -5,7 +5,7 @@
 <br>
 SHOP - click (https://coderxsa.github.io/WEBSITE/).
 <br>
-WATSAP BOT - click (https://coderxsa.github.io/WABot/WA-BOT/).
+WHATSAAP BOT - click (https://coderxsa.github.io/WABot/WA-BOT/).
 
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderx" alt="coderx" /></a> </p>
