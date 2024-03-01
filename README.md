@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Frontend Developer | Backend Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderx&label=Profile%20views&color=0e75b6&style=flat" alt="coderx" /> </p>
-To view the live TikTok view counter, click (https://coderxsa.github.io/coderxsa/counter).
 <br>
 SHOP - click (https://coderxsa.github.io/WEBSITE/).
 <br>
