@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Python | Html | Css | Js | Php | MySql<br>👯 I’m looking to collaborate on Other Developers<br>👨‍💻 All of my projects are available at github<br>💬 Ask me about When did you start, What was the codding journey about ect...<br>⚡ Fun fact Been Codding since 2012
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderxsa&label=Profile%20views&color=0e75b6&style=flat" alt="coderxsa" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderx.sa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@coderxservices) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coderxsa) 
